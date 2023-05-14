@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\my_nav.xml","javaFiles":["org.deskconn.roomdatabase.fragments.list.ListFragmentDirections","org.deskconn.roomdatabase.fragments.add.AddFragmentDirections","org.deskconn.roomdatabase.fragments.update.UpdateFragmentDirections","org.deskconn.roomdatabase.fragments.update.UpdateFragmentArgs"]}]

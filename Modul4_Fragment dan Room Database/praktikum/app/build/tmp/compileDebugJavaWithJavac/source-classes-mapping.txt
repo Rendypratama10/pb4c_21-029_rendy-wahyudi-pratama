@@ -1,0 +1,16 @@
+org/deskconn/roomdatabase/BuildConfig.java
+ org.deskconn.roomdatabase.BuildConfig
+org/deskconn/roomdatabase/data/UserDatabase_Impl.java
+ org.deskconn.roomdatabase.data.UserDatabase_Impl
+ org.deskconn.roomdatabase.data.UserDatabase_Impl$1
+org/deskconn/roomdatabase/data/UserDao_Impl.java
+ org.deskconn.roomdatabase.data.UserDao_Impl
+ org.deskconn.roomdatabase.data.UserDao_Impl$1
+ org.deskconn.roomdatabase.data.UserDao_Impl$2
+ org.deskconn.roomdatabase.data.UserDao_Impl$3
+ org.deskconn.roomdatabase.data.UserDao_Impl$4
+ org.deskconn.roomdatabase.data.UserDao_Impl$5
+ org.deskconn.roomdatabase.data.UserDao_Impl$6
+ org.deskconn.roomdatabase.data.UserDao_Impl$7
+ org.deskconn.roomdatabase.data.UserDao_Impl$8
+ org.deskconn.roomdatabase.data.UserDao_Impl$9
